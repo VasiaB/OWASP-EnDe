@@ -1,0 +1,22 @@
+
+	EnDe - Encoder, Decoder, Converter, Calculator, TU WAS DU WILLST .. 
+		for various codings used in the wild wide web
+
+
+    DESCRIPTION
+
+	EnDe  is a library with a collection of functions for various codings,
+	encodings, decodings and conversions.
+
+	The objectives are mainly driven by the requirements for functionality
+	in HTTP/HTML systems.  However, it's not limited to that.
+
+    TARGET AUDIENCE
+
+	* developers building secure applications
+	* penetration testers
+	* anyone interested in codings
+
+    Get a Copy
+	git clone git@github.com:EnDe/EnDe.git
+	git clone http://github.com/EnDe/EnDe.git
